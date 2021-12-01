@@ -1,4 +1,4 @@
-# Landing Page
+# Honda CBR Landing Page
 This site is a just a landing page of a online motor cycle shop
 
 ## Live website link:
@@ -7,4 +7,4 @@ This site is a just a landing page of a online motor cycle shop
 ## Some Key points Reagarding this site are:
 - Only HTML5, CSS, Bootstrap used for this site.
 - This is a single landing page of a online motor cycle shop
-- This site is fully responsive
+- This site is fully responsive by using Bootstrap Version:5
